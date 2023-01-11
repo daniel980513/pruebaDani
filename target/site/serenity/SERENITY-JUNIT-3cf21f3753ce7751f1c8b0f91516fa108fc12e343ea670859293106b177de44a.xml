@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="The user logs in" skipped="0" tests="1" time="15.31" timestamp="2023-01-11 11:30:13"><testcase name="Login"><failure message="&#10;Expected: is &quot;Esteba&quot;&#10;     but: was &quot;Esteban&quot;" type="java.lang.AssertionError">
+Expected: is "Esteba"
+     but: was "Esteban"</failure><system-err>
+Expected: is "Esteba"
+     but: was "Esteban"&#13;
+stepdefinitions.mLoginstepdefinition.theUserSeesBienvenidoMagneto(mLoginstepdefinition.java:54)&#13;
+✽.the user sees Esteba magneto(src/test/resources/features/mLogin.feature:10)&#13;
+</system-err></testcase></testsuite>
